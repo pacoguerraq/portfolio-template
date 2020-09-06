@@ -1,29 +1,54 @@
-p {
-    color:green;
+body {
+    background-color: #fca311;
+    padding: 2vw;
+}
+
+header, main {
+    margin-left: 26vw;
+}
+
+#Home {
+    background-color: #dda15e;
+    height: 100vh;
+}
+
+#About {
+    background-color: #e5e5e5;
+    height: 100vh;
+}
+
+#Education {
+    background-color: #dda15e;
+    height: 100vh;
+}
+
+#Experience {
+    background-color: #ffddd2;
+    height: 100vh;
+}
+
+#Projects {
+    background-color: #dda15e;
+    height: 100vh;
+}
+
+#Skills {
+    background-color: #ffddd2;
+    height: 100vh;
+}
+
+nav {
+    background-color: gray;
+    height: 100vh;
+    width: 25vw;
+    position: fixed;
 }
 
 h1 {
-    color: blue;
-    font-size: 3vw;
+    margin: 0;
 }
 
-h2 {
-    color:purple;
-}
-
-h3 {
-    color: cornsilk;
-    font-size: 3vh;
-}
-
-#cosas {
-    background-color: #457b9d;
-}
-
-.cosa {
-    background-color: skyblue;
-}
-
-body {
-    font-family: 'Kumbh Sans', sans-serif;;
+a {
+    color: white;
+    text-decoration: none;
 }
