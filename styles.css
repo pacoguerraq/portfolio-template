@@ -1,0 +1,29 @@
+p {
+    color:green;
+}
+
+h1 {
+    color: blue;
+    font-size: 3vw;
+}
+
+h2 {
+    color:purple;
+}
+
+h3 {
+    color: cornsilk;
+    font-size: 3vh;
+}
+
+#cosas {
+    background-color: #457b9d;
+}
+
+.cosa {
+    background-color: skyblue;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;;
+}
