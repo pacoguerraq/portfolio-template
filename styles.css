@@ -33,12 +33,15 @@ nav {
     background-color: gray;
     height: 15vh;
     width: 100vw;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
     display: inline-block;
     text-align: center;
     z-index: 1;
+}
+
+.sticky-nav {
+    position:-webkit-sticky;
+    position: sticky;
+    top: 0;
 }
 
 nav a {
