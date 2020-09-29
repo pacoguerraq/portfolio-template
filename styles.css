@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: #2a9d8f;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -10,6 +10,7 @@ body {
     background-size: cover;
     background-position: center;
     height: 85vh;
+    width: 100vw;
 }
 
 header p {
@@ -79,6 +80,24 @@ section div {
 #About {
     background-color: #e5e5e5;
     height: 85vh;
+}
+
+.about-info p {
+    text-align: justify;
+    margin: auto;
+    width: 90%;
+    font-size: 3vh;
+}
+
+.about-social {
+    display: inline-block;
+    text-align: center;
+}
+
+.about-social h3 {
+    display: inline-block;
+    padding: 0vh 2vw;
+    text-decoration: none;
 }
 
 #Education {
